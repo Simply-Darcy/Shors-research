@@ -1,2 +1,2 @@
-# Shors-research
-Quantum algorithm: Shor's prime number finding algorithm research project
+# Shor's research
+Quantum algorithm: Shor's prime number factor finding algorithm research project
